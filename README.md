@@ -8,3 +8,4 @@ Libraries:
 ```import pyttsx3```
 ```import speech_recognition as sr```
 ``` import sounddevice as sd```
+``` from openai import OpenAI```
