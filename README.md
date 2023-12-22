@@ -3,3 +3,8 @@
 2. Record and play audio
 3. text to speech
 4. AI Chat Bot
+
+Libraries: 
+```import pyttsx3```
+```import speech_recognition as sr```
+``` import sounddevice as sd```
