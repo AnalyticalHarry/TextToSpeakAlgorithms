@@ -15,12 +15,6 @@ In this guide, we will explore how to convert text into audiobooks using various
 We will use the following Python libraries in our examples:
 
 ```python
-import pyttsx3
-import speech_recognition as sr
-import sounddevice as sd
-from openai import OpenAI
-
-```python
 import time
 import openai
 import pyttsx3
