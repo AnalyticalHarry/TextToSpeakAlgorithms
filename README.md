@@ -74,7 +74,7 @@ with sr.Microphone() as source:
 #function called chat_gpt that takes one argument recognized_text.
 def chat_gpt(recognized_text):  
     #API_KEY variable to a specific API key.
-    API_KEY = openai.api_key = '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'  
+    API_KEY = openai.api_key = ' '  #api key here
     #client object to interact with the OpenAI API.
     client = OpenAI(  
          #pass the API key to the client.
