@@ -102,6 +102,6 @@ def chat_gpt(recognized_text):
     return speech(text_to_speak)  
 
 chat_gpt(text)
-
+```
 # Author : Hemant Thapa
 # Email : hemantthapa1998@gmail.com
