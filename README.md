@@ -103,5 +103,5 @@ def chat_gpt(recognized_text):
 
 chat_gpt(text)
 ```
-# Author : Hemant Thapa
-# Email : hemantthapa1998@gmail.com
+### Author : Hemant Thapa
+### Email : hemantthapa1998@gmail.com
